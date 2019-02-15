@@ -25,6 +25,9 @@
     "env": {
       "node": true
     },
+    "plugins": [
+        "disable"
+    ],
     "extends": [
       "plugin:vue/essential",
       "eslint:recommended"
